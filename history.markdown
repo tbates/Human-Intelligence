@@ -1,0 +1,5 @@
+## Galton
+## Spearman
+## Thurstone
+## Vernon
+
